@@ -1,10 +1,8 @@
-Втора Английски Езикова Гимназия "Томас Джеферсън"
+<p align="center">
 
-8 клас - Проект: Галерия: https://martinbyalov.github.io/gallery/
+    Втора Английски Езикова Гимназия "Томас Джеферсън"
 
-![Alt text](preview.jpg?raw=true)
+![Alt text](Gallery_short.png?raw=true)
 
-#HTML
-#CSS
-#GitHub Pages/Google Sites
-#art
+
+</p>
