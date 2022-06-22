@@ -1,7 +1,6 @@
+<p align="center">
+<b>Втора Английски Езикова Гимназия "Томас Джеферсън"</b>
 
-    <p align="center">
-    Втора Английски Езикова Гимназия "Томас Джеферсън"
-
-    </p
+</p
    ![alt text](img/Gallery_short.png?raw=true)
 
